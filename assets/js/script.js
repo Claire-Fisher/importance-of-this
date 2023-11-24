@@ -1,5 +1,9 @@
 console.log("IT WORKS!");
 
 $("p").click(function () {
-  $("p").css("color:red");
+  $("p").css("background-color", "red");
 });
+
+// $("p").click(function () {
+//   $("p").css("color", "blue");
+// });
