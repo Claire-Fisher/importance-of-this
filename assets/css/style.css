@@ -1,0 +1,15 @@
+section {
+    display:grid;
+    background-color: #000;
+}
+
+#container {
+    padding:1rem;
+    background-color: rgb(74, 117, 180);
+}
+
+.card {
+    max-width: 50%;
+    padding:2rem;
+    border: 0.5rem solid rgb(74, 117, 180);    
+}
